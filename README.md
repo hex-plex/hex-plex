@@ -29,4 +29,4 @@ My name is Somnath Kumar I am just a curious little fella, love computers from m
 
 ![Somnath's github stats](https://github-readme-stats.vercel.app/api?username=hex-plex&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 <br/>**Thanks for contributing to this =>**
-[](https://komarev.com/ghpvc/?username=hex-plex&color=red)
+![](https://komarev.com/ghpvc/?username=hex-plex&color=red)
