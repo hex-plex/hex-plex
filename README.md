@@ -25,7 +25,8 @@ My name is Somnath Kumar I am just a curious little fella, love computers from m
 <img src="https://github.com/github/explore/raw/master/topics/java/java.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/kotlin/kotlin.png" width="40" height="40" />  
 <img src="https://github.com/github/explore/raw/master/topics/unity/unity.png" width="40" height="40" /> 
-</code>
+</code><hr/>
+
 
 ![Somnath's github stats](https://github-readme-stats.vercel.app/api?username=hex-plex&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 <br/>**Thanks for contributing to this =>**
