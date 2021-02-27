@@ -9,22 +9,22 @@ My name is Somnath Kumar I am just a curious little fella, love computers from m
 - ⚡ Fun fact: A 'jiffy' is an actual unit of time for 1/100th of a second.
 ### Tools and Languages
 <code>
-<img src="https://github.com/github/explore/raw/master/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/python/python.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" /> 
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
-<img src="https://github.com/github/explore/raw/master/topics/cpp/cpp.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/opencv/opencv.png" width="40" height="40" />
+<img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
 <img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height="40" />
-<img src="https://github.com/github/explore/raw/master/topics/raspberry-pi/raspberry-pi.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/r/r.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/bash/bash.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/dart/dart.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/django/django.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/flask/flask.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/java/java.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/kotlin/kotlin.png" width="40" height="40" />  
-<img src="https://github.com/github/explore/raw/master/topics/unity/unity.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/raspberry-pi/raspberry-pi.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/r/r.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/dart/dart.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/django/django.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/flask/flask.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/main/topics/kotlin/kotlin.png" width="40" height="40" />  
+<img src="https://github.com/github/explore/raw/main/topics/unity/unity.png" width="40" height="40" /> 
 </code><hr/>
 
 
