@@ -1,11 +1,11 @@
 ## Hi There 👋,
 
 ### About me
-My name is Somnath Kumar I am just a curious little fella, love computers from my childhood. I am very interested in Robotics , Machine Learning in general, Computer Vision , Networking, and anything that can flex my brains. Besides programming I am training myself to find an near-optimal policy to play couple of frequencies on a instrument named Guitar. 
+My name is Somnath Kumar I am just a curious little fella, love computers from my childhood. I am very interested in Robotics , Machine Learning in general, Computer Vision , Networking, and anything that can flex my brains. Besides programming I am training myself to learn an near-optimal policy to play couple of frequencies on an instrument named Guitar. 
 - 🌱 I’m currently learning Computer Architecture, Inverse Reinforcement learning and Robot mechanics.
 - 👯 I’m looking to collaborate on Robotics Projects , Deep learning experiments and anything complex. 
 - 💬 Ask me about Life.
-- 📫 How to reach me: 
+- 📫 How to reach me: somnath[dot]sendhilk[dot]eee19[at]itbhu[dot]ac[dot]in mail is the prefered way to contact me.
 - ⚡ Fun fact: A 'jiffy' is an actual unit of time for 1/100th of a second.
 ### Tools and Languages
 <code>
